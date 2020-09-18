@@ -1,0 +1,9 @@
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\bin\Debug\Kop_ing_gr1.exe.config
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\bin\Debug\Kop_ing_gr1.exe
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\bin\Debug\Kop_ing_gr1.pdb
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\obj\Debug\Kop_ing_gr1.csprojAssemblyReference.cache
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\obj\Debug\Kop_ing_gr1.Form1.resources
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\obj\Debug\Kop_ing_gr1.Properties.Resources.resources
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\obj\Debug\Kop_ing_gr1.csproj.GenerateResource.cache
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\obj\Debug\Kop_ing_gr1.exe
+C:\Users\Сашок\source\repos\Kop_ing_gr1\Kop_ing_gr1\obj\Debug\Kop_ing_gr1.pdb
